@@ -8,7 +8,7 @@ paste: ctrl shift insert
 
 
 
-git add <폴더경로>
+git add 폴더경로
 git commit -m "커밋 메시지"
 
 git add MyFolder
